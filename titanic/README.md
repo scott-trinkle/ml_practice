@@ -1,0 +1,1 @@
+Here I use the "titanic" dataset available through [Kaggle](https://www.kaggle.com/c/titanic) to explore different feature engineering and modeling approaches. For complete replication of my work, run "Features.ipynb" followed by "Models.ipynb" and "Final.ipynb"
