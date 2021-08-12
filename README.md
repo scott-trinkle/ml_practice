@@ -1,1 +1,1 @@
-Organizing notebooks and code to practice different ML approaches / Kaggle competitions
+This repository contains notebooks I created to practice and explain the use of a number of different machine learning algorithms and pipelines on the [Titanic dataset](https://www.kaggle.com/c/titanic) using scikit-learn.
